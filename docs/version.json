@@ -1,13 +1,13 @@
 {
-  "name": "scm服务管理工具",
-  "about": "create by chusen.tech",
+  "name": "ing-box-ui服务管理工具",
+  "about": "create by Neo110",
   "versions": [
     {
       "os": "windows",
       "copyright": "企业版本",
       "version": "v1.0.9",
-      "name": "scm-v1.0.7.rar",
-      "url": "https://github.com/Neo110/SCM/releases/download/v1.0.7/scm-v1.0.7.rar"
+      "name": "sing-box-ui-v1.0.9.zip",
+      "url": "https://slink.ltd/https://github.com/Neo110/sing-box-ui/archive/refs/tags/v1.0.0.zip"
     }
   ],
   "msg": [
@@ -16,7 +16,7 @@
       "subname": "子名称名称",
       "opneweb": {
           "btnname":"打开",
-          "url":"http://web.chusentech.com/scm/scm-v1.0.6.rar"
+          "url":"https://github.com/Neo110/sing-box-ui/archive/refs/tags/v1.0.0.zip"
       },
       "startTime": "子名称名称",
       "endTime": "子名称名称",
