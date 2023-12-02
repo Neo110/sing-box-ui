@@ -1,0 +1,59 @@
+{
+  "name": "scm服务管理工具",
+  "about": "create by chusen.tech",
+  "versions": [
+    {
+      "os": "windows",
+      "copyright": "企业版本",
+      "version": "v2.0.8",
+      "name": "scm-v2.0.8.rar",
+      "url": "https://github.com/Neo110/SCM/releases/download/v1.0.7/scm-v1.0.7.rar"
+    }
+  ],
+  "msg": [
+    {
+      "name": "名称",
+      "subname": "子名称名称",
+      "opneweb": {
+          "btnname":"打开",
+          "url":"http://web.chusentech.com/scm/scm-v1.0.6.rar"
+      },
+      "startTime": "子名称名称",
+      "endTime": "子名称名称",
+      "sort":1,
+      "sleep": 10,
+      "isshow":false
+    }
+  ],
+  "packages": [
+    {
+      "os": "windows",
+      "list": [
+        {
+          "label": "包含全部服务",
+          "subLabel": "all-Nginx+MySQL+Redis+JDK+SpringBoot-tomcat-Minio-openssh-flashFXP-FileZillaServer-屏幕水印+服务守护+邮件告警",
+          "description": "包含全部服务，一键安装快速交付部署",
+          "url": "https://pan.baidu.com/s/1Cv3gK0VyBP0w_SK5S6ZJRQ?pwd=bv5n"
+        },
+        {
+          "label": "JDK",
+          "subLabel": "8 + 11 + 17 + 21",
+          "description": "JDK版本切换工具",
+          "url": "https://pan.baidu.com/s/1XfAy6W5shYuRCRiQyQTK7w?pwd=248z"
+        },
+        {
+          "label": "Nginx+MySQL+Redis+JDK+SpringBoot+服务守护+邮件告警",
+          "subLabel": "1.14.2 + 5.7 + 4.0 + 8 + 不限",
+          "description": "SpingBoot安装包，支持自定义项目服务管理，支持自定义打包项目",
+          "url": "https://pan.baidu.com/s/1tW4KZ0ALbAIddsKRsX3lhw?pwd=hygh"
+        },
+        {
+          "label": "Nginx+MySQL+Redis+JDK+tomcat+服务守护+邮件告警",
+          "subLabel": "1.14.2 + 5.7 + 4.0 + 8 + 8",
+          "description": "SpingMVC安装包，支持自定义项目服务管理，支持自定义打包项目",
+          "url": "https://pan.baidu.com/s/1E31e4LFBWTqq7r_vqADdXQ?pwd=u3uz"
+        }
+      ]
+    }
+  ]
+}
