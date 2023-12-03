@@ -1,11 +1,11 @@
 {
-  "name": "ing-box-ui服务管理工具",
+  "name": "sing-box-ui服务管理工具",
   "about": "create by Neo110",
   "versions": [
     {
       "os": "windows",
       "copyright": "企业版本",
-      "version": "v1.0.9",
+      "version": "v1.0.0",
       "name": "sing-box-ui-v1.0.0.zip",
       "url": "https://slink.ltd/https://github.com/Neo110/sing-box-ui/eleases/download/v1.0.0/sing-box-ui-v1.0.0.zip"
     }
